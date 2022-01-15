@@ -1,0 +1,4 @@
+Subjek : saya, aku, kamu, mereka, ibu
+predikat : makan, belajar, minum, pergi, bermain
+objek : nasi, jus, tba, bola, mie
+keterangan : didapur, diGOR, dilab, kecafe, kepasar
